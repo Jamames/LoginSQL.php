@@ -19,7 +19,7 @@ if ($result->num_rows > 0) {
                         echo "welcome";}
 	}
     if ($login_success == false) {
-        echo "fuck off";
+        echo "fuck off!";
     }
 } else {
     echo "0 results";
